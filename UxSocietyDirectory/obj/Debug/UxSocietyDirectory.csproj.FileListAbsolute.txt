@@ -1,0 +1,6 @@
+C:\Personal\UxSocietyDirectory\UxSocietyDirectory\UxSocietyDirectory\bin\UxSocietyDirectory.dll.config
+C:\Personal\UxSocietyDirectory\UxSocietyDirectory\UxSocietyDirectory\bin\UxSocietyDirectory.dll
+C:\Personal\UxSocietyDirectory\UxSocietyDirectory\UxSocietyDirectory\bin\UxSocietyDirectory.pdb
+C:\Personal\UxSocietyDirectory\UxSocietyDirectory\UxSocietyDirectory\obj\Debug\UxSocietyDirectory.csprojResolveAssemblyReference.cache
+C:\Personal\UxSocietyDirectory\UxSocietyDirectory\UxSocietyDirectory\obj\Debug\UxSocietyDirectory.dll
+C:\Personal\UxSocietyDirectory\UxSocietyDirectory\UxSocietyDirectory\obj\Debug\UxSocietyDirectory.pdb

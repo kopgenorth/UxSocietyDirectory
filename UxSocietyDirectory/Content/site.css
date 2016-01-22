@@ -1,0 +1,13 @@
+﻿.flex-full{
+    flex:1;
+}
+
+.detail{
+    margin-left: 15px;
+    max-width: 250px;
+}
+
+.main{
+    display: flex;
+    padding-top: 15px;
+}
